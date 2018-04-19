@@ -1,4 +1,4 @@
-原发表于 https://yq.aliyun.com/articles/77965
+译文原地址在 https://yq.aliyun.com/articles/77965
 github上未显示图片，格式较乱，建议在源地址查看。
 
 A Critique of ANSI SQL Isolation Levels
